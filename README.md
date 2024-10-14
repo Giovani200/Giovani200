@@ -1,6 +1,5 @@
                                                   Hey 👋 ! Welcome 🤩 !
-                                          
-                                                  I am a web developer
+                                           My name is Giovani. I' m a web developer 🧑🏻‍💻
 
 
 - 🌱 I'm currently learning Python, ReactNative and Javascript
