@@ -17,7 +17,7 @@ I'm <strong>Sosthene-Giovani Kloussey</strong> — a passionate <strong>Full Sta
 ---
 
 ### 🌍 My Website  
-🔗 [giovani-kloussey.vercel.app](https://giovani-kloussey.vercel.app)
+🔗 https://giovani-kloussey.fr/
 
 ---
 
